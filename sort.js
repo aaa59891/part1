@@ -72,4 +72,4 @@ function swap(arr, left, right){
 
 const arr = arrayStr.split(' ').map((d) => parseInt(d));
 
-isSort(arraySize, arr);
+isSort(parseInt(arraySize), arr);
